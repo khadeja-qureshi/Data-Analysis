@@ -1,4 +1,4 @@
-# 🏥 Medical Charges Data Analysis
+#  Medical Charges Data Analysis
 
 This project analyzes a dataset of **medical insurance charges** billed to individuals in the United States. The goal is to uncover how factors such as **age, BMI, smoking status, and region** influence healthcare costs.
 
